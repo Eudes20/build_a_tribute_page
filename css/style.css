@@ -1,4 +1,8 @@
-#image{
-    height: 100% ;
+#img-div {
+    position: relative;
+    margin: 80px;
+}
+
+#image {
     width: 100%;
 }
